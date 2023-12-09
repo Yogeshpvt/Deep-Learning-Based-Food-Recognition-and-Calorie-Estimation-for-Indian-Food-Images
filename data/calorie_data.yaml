@@ -1,0 +1,44 @@
+train: ../calorie_data/images/train/ 
+val:  ../calorie_data/images/val/
+test: ../calorie_data/images/test/
+
+#nc: 36
+
+#class names 
+names: 
+  0: Aloo_Gobi
+  1: Aloo_Matar 
+  2: Aloo_Methi 
+  3: Aloo_Tikki 
+  4: Apple 
+  5: Bhindi_Masala 
+  6: Biryani 
+  7: Boiled_Egg
+  8: Bread
+  9: Burger 
+  10: Butter_Chicken
+  11: Chai
+  12: Chicken_Curry
+  13: Chicken_Tikka
+  14: Chicken_Wings 
+  15: Chole
+  16: Daal
+  17: French_Fries 
+  18: French_Toast 
+  19: Fried_Egg
+  20: Kadhi_Pakora 
+  21: Kheer 
+  22: Lobia_Curry
+  23: Omelette
+  24: Onion_Pakora 
+  25: Onion_Rings 
+  26: Palak_Paneer
+  27: Pancakes
+  28: Paratha 
+  29: Rice 
+  30: Roti
+  31: Samosa
+  32: Sandwich
+  33: Spring_Rolls 
+  34: Waffles
+  35: White_Rice
