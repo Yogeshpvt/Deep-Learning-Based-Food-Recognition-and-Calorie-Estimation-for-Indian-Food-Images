@@ -1,0 +1,43 @@
+names:
+- Aloo Gobi
+- Aloo Matar
+- Aloo Methi
+- Aloo Tikki
+- Apple
+- Bhindi Masala
+- Biryani
+- Boiled Egg
+- Bread
+- Burger
+- Butter Chicken
+- Chai
+- Chicken Curry
+- Chicken Tikka
+- Chicken Wings
+- Chole
+- Daal
+- French Fries
+- French Toast
+- Fried Egg
+- Kadhi Pakora
+- Kheer
+- Lobia Curry
+- Omelette
+- Onion Pakora
+- Onion Rings
+- Palak Paneer
+- Pancakes
+- Paratha
+- Rice
+- Roti
+- Samosa
+- Sandwich
+- Spring Rolls
+- Waffles
+- White Rice
+
+nc: 36
+
+test: ../test/images
+train: NutraCal-Food-Detection-5/train/images
+val: NutraCal-Food-Detection-5/valid/images
