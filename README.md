@@ -2,7 +2,6 @@
 
 ![image](https://github.com/Yogeshpvt/Deep-Learning-Based-Food-Recognition-and-Calorie-Estimation-for-Indian-Food-Images/assets/87895840/a756ae7c-a01c-424a-8ab0-15b90f796304)
 ![image](https://github.com/Yogeshpvt/Deep-Learning-Based-Food-Recognition-and-Calorie-Estimation-for-Indian-Food-Images/assets/87895840/2f245e3a-274b-4b15-9522-849ef910ccde)
-![image](https://github.com/Yogeshpvt/Deep-Learning-Based-Food-Recognition-and-Calorie-Estimation-for-Indian-Food-Images/assets/87895840/5163dac1-90bd-41b8-abe8-ffaaa5182cef)
-
+![image](https://github.com/Yogeshpvt/Deep-Learning-Based-Food-Recognition-and-Calorie-Estimation-for-Indian-Food-Images/assets/87895840/1184b870-1abd-422c-a23b-db68f86633bb)
 
 
