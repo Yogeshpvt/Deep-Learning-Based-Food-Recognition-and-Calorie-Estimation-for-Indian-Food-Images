@@ -1,6 +1,6 @@
 # Deep Learning Based Food Recognition and Calorie Estimation for popular Indian Foods
 
-## Research Papers
+## Summary of Important research papers to embark into this field of research 
 
 | **Paper Title** | **DOI** | **Summary** |
 | --- | --- | --- |
