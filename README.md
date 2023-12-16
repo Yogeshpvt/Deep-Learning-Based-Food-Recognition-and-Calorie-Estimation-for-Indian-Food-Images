@@ -15,7 +15,7 @@
 | A Novel Ensemble Weight-Assisted Yolov5-Based Deep Learning Technique for the Localization and Detection of Malaria Parasites | [10.3390/electronics11233999](https://doi.org/10.3390/electronics11233999) | Introduces a novel ensemble weight-assisted YOLOv5-based technique for detecting malaria parasites. |
 | An Image Augmentation Method Based on Limited Samples for Object Tracking Based on Mobile Platform | [10.3390/s22051967](https://doi.org/10.3390/s22051967) | Proposes an image augmentation method for object tracking on mobile platforms with limited samples. |
 
-
+## Model Architecture 
 ![image](https://github.com/Yogeshpvt/Deep-Learning-Based-Food-Recognition-and-Calorie-Estimation-for-Indian-Food-Images/assets/87895840/a756ae7c-a01c-424a-8ab0-15b90f796304)
 ![image](https://github.com/Yogeshpvt/Deep-Learning-Based-Food-Recognition-and-Calorie-Estimation-for-Indian-Food-Images/assets/87895840/2f245e3a-274b-4b15-9522-849ef910ccde)
 ![image](https://github.com/Yogeshpvt/Deep-Learning-Based-Food-Recognition-and-Calorie-Estimation-for-Indian-Food-Images/assets/87895840/1184b870-1abd-422c-a23b-db68f86633bb)
